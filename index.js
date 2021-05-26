@@ -4,10 +4,6 @@ const { json } = require('body-parser');
 const app = express()
 const port = 3000
 
-// middleware
-// const jsonParser = bodyParser.json()
-// app.use(bodyParser.json)
-
 // User
 
 // Monster
